@@ -1,0 +1,11 @@
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\bin\Debug\net7.0\Service.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Service\obj\Debug\net7.0\ref\Service.dll

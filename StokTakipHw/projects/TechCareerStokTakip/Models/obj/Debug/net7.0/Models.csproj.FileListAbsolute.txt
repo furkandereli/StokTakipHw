@@ -1,0 +1,15 @@
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.csproj.AssemblyReference.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\bin\Debug\net7.0\Models.deps.json
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\bin\Debug\net7.0\Models.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\bin\Debug\net7.0\Models.pdb
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\bin\Debug\net7.0\Core.Persistence.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\bin\Debug\net7.0\Core.Persistence.pdb
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.csproj.CopyComplete
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\refint\Models.dll
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\Models.pdb
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\Models\obj\Debug\net7.0\ref\Models.dll

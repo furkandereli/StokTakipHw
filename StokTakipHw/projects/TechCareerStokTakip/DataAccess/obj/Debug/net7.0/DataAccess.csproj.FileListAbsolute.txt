@@ -1,0 +1,5 @@
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\Nyekruh\Desktop\TechCareer.StokTakip-master\projects\TechCareerStokTakip\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
